@@ -66,8 +66,8 @@
 <symbol id="icon-vector" viewBox="0 0 20 32">
 <path d="M17 0h-14c-1.654 0-3 1.346-3 3v26c0 1.654 1.346 3 3 3h14c1.654 0 3-1.346 3-3v-26c0-1.654-1.346-3-3-3zM3 2h14c0.552 0 1 0.448 1 1v0 21h-16v-21c0-0.552 0.448-1 1-1v0zM17 30h-14c-0.552 0-1-0.448-1-1v0-3h16v3c0 0.552-0.448 1-1 1v0z"></path>
 </symbol>
-<symbol id="icon-close" viewBox="0 0 30 30" fill="none">
-<circle cx="15" cy="15" r="15" fill="white"/>
+<symbol id="icon-close" viewBox="0 0 30 30" ><!-- fill="none" -->
+ <circle cx="15" cy="15" r="15"  /> <!--fill="white" -->
 <circle cx="15" cy="15" r="14.5" stroke="black" stroke-opacity="0.1"/>
 <path d="M21 10.1079L19.8921 9L15.5 13.3921L11.1079 9L10 10.1079L14.3921 14.5L10 18.8921L11.1079 20L15.5 15.6079L19.8921 20L21 18.8921L16.6079 14.5L21 10.1079Z" fill="black"/>
 </defs>
